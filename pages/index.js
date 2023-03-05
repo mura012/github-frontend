@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          FuncA1 started by editing{" "}
+          FuncA2 started by editing{" "}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
